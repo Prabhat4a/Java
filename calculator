@@ -4,7 +4,7 @@ public class Calculator
 
   {
 
-    public static void main(double String[] args) 
+    public static void main(double[] args) 
     {
         Scanner scanner = new Scanner(System.in);
 
