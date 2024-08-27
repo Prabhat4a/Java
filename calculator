@@ -4,19 +4,19 @@ public class Calculator
 
   {
 
-    public static void main(double[] args) 
+    public static void main(int[] args) 
     {
         Scanner scanner = new Scanner(System.in);
 
         
         System.out.print("Enter the first number: ");
 
-      double num1 = scanner.nextln();
+      int num1 = scanner.nextln();
     
 
 System.out.print("Enter the second number: ");
 
-      double num2 = scanner.nextln();
+      int num2 = scanner.nextln();
 
 
         System.out.print("Chose an operation (+, -, *, /): ");
